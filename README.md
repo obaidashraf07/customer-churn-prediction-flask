@@ -155,17 +155,7 @@ customer-churn-prediction-flask/
 └── .gitignore
 ```
 
----
 
-## Future Improvements
-
-- Prediction Probability
-- Dashboard Integration
-- REST API
-- Cloud Deployment
-- Docker Support
-
----
 
 ## Author
 
